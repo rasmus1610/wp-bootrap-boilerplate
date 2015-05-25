@@ -100,6 +100,8 @@ function special_nav_class($classes, $item){
    	return $classes;
 }
 
+//CSS comment
+
 /*
 Theme Name: Twenty Fifteen
 Theme URI: https://wordpress.org/themes/twentyfifteen/
